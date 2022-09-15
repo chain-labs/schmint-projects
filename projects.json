@@ -1,0 +1,26 @@
+{
+  projects: [
+    {
+      title: "Silicon Valley Avatars",
+      network: {
+        chainId: 1,
+        name: "Ethereum",
+      },
+      startTimestamp: 1665833304,
+      price: 0,
+      banner: "https://img.freepik.com/free-vector/cartoon-working-day-scene-illustration_52683-62607.jpg?w=2000&t=st=1663241588~exp=1663242188~hmac=5c15ed5b4182137e616dfd0cae55dbfadf375be1f5c1d8d48c8574a9d7a404d5",
+      website_url: "https://simplrcollection.com",
+    },
+    {
+      title: "Abstract 3D",
+      network: {
+        chainId: 137,
+        name: "Polygon",
+      },
+      startTimestamp: 1664467200,
+      price: 0.01,
+      banner: "https://images.unsplash.com/photo-1646995931586-076b80286a8b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2232&q=80",
+      website_url: "https://simplrcollection.com",
+    }
+  ]
+}
